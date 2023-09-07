@@ -4,8 +4,8 @@
 
       <div class="carousel-item">
         <h1>DIGIVICE Api</h1>
-        <a  href="https://github.com/Yeyref/digimonYR" target="_blank" rel="noopener noreferrer">
-          <img src="/img/Screenshot_digimonjpeg.jpg" alt="Imagen 1" />
+        <a  href="https://yeyref.github.io/digimonYR/" target="_blank" rel="noopener noreferrer">
+          <img src="img/Screenshot_digimonjpeg.jpg" alt="Imagen 1" />
         </a>
         <p>Consumo de api externa de <a class="efecto" href="https://digimon-api.vercel.app/" target="_blank"
             rel="noopener noreferrer">digimon</a> mediante petición get y renderizado.</p>
@@ -20,7 +20,7 @@
       <div class="carousel-item">
         <h1>Games Opinion</h1>
         <a href="https://github.com/Yeyref/drilling_mod_6" target="_blank" rel="noopener noreferrer">
-          <img src="/img/Captura de pantalla 2023-09-02 181447.png" alt="Imagen 2" />
+          <img src="img/Captura de pantalla 2023-09-02 181447.png" alt="Imagen 2" />
         </a>
 
         <p>Proyecto donde puedes comentar, editar y eliminar opiniones despues de dar click a cualquier juego
@@ -28,8 +28,7 @@
             rel="noopener noreferrer">RAWG</a>,
           puedes dar me gusta y darle una cierta cantidad de coins al juego seleccionado.</p>
         <ul class="is-flex-wrap-wrap">
-          <li>JavaScript</li>
-          <li>Vue.JS</li>
+          <li>VueJS</li>
           <li>Bootstrap-Vue</li>
           <li>Axios</li>
         </ul>
@@ -38,7 +37,7 @@
       <div class="carousel-item">
         <h1>Stars Wars API</h1>
         <a href="https://github.com/Yeyref/drillingFinalMod5" target="_blank" rel="noopener noreferrer">
-          <img src="/img/Captura de pantalla 2023-08-31 181326.png" alt="Imagen 3" />
+          <img src="img/Captura de pantalla 2023-08-31 181326.png" alt="Imagen 3" />
         </a>
 
         <p>¿Alguna vez has querido saber cómo serían los personajes de ficción en la vida real? En este proyecto los
@@ -55,8 +54,8 @@
 
       <div class="carousel-item">
         <h1>Festival de ROCK Y EDM</h1>
-        <a href="https://github.com/Yeyref/FestivalMusica_inicio" target="_blank" rel="noopener noreferrer">
-          <img src="/img/Screenshot_rockjpeg.jpg" alt="Imagen 4" />
+        <a href="https://yeyref.github.io/FestivalMusica_inicio/" target="_blank" rel="noopener noreferrer">
+          <img src="img/Screenshot_rockjpeg.jpg" alt="Imagen 4" />
         </a>
         <p>Pagina main de festival de musica, donde se separa por secciones que incluye line up, precio de tickets y
           galeria de fotos.</p>
@@ -70,8 +69,8 @@
 
     </vue-slick-carousel>
     <div class="container">
-                      <p class="has-text-centered" style=" margin-top:3rem;">Inspirado por la web, diseños y otros pensamientos que surgieron en alguna madrugada, Hecho con VueJS 2.0 & BULMACSS © <br> {{ this.fecha }} </p>
-                    </div>
+      <p class="has-text-centered" style=" margin-top:3rem;">Inspirado por la web, diseños y otros pensamientos que surgieron en alguna madrugada, Hecho con VueJS 2.0 & BULMACSS © <br> {{ this.fecha }} </p>
+    </div>
   </div>
 </template>
 
@@ -120,6 +119,11 @@ export default {
   display: flex;
   align-items: center;
   flex-direction: column;
+ 
+}
+
+.carousel-item{
+  padding:0 1rem;
 }
 
 .slick-slider {
@@ -156,7 +160,7 @@ img:hover{
 h1 {
   text-align: center;
   color: rgb(226, 232, 240, 1);
-  line-height: 100px;
+  line-height: 50px;
   margin: 3px;
 }
 

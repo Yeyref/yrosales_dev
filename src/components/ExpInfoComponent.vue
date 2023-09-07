@@ -4,7 +4,7 @@
             <li>
                 <div class="columns">
                     <div class="column colorPrimary">
-                        Nov 2018 - Ahora
+                        <p>Nov 2018 - Ahora</p>
                     </div>
                     <div class="column">
                         <h4 class="has-text-left colorPrimary">Tecnico Electronico</h4>
@@ -22,7 +22,7 @@
             <li>
                 <div class="columns">
                     <div class="column colorPrimary">
-                        Feb 2015 - Nov 2015
+                       <p>Feb 2015 - Nov 2015</p> 
                     </div>
                     <div class="column">
                         <h4 class="has-text-left colorPrimary">Tecnico Instalador Junior</h4>
@@ -40,18 +40,9 @@
 <script>
 export default {
     name: 'ExpInfoComponent',
-    // props: {},
     data: function () {
         return {}
     },
-    // computed: {},
-    //methods: {},
-    // watch: {},
-    // components: {},
-    // mixins: [],
-    // filters: {},
-    // -- Lifecycle Methods
-    // -- End Lifecycle Methods
 }
 </script>
 

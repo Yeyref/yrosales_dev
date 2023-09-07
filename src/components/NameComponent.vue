@@ -7,22 +7,12 @@
         <p>Codifico y transformo conceptos en realidades visuales, necesarias e inclusivas.</p>
     </div>
 </template>
-
 <script>
 export default {
     name: 'NameComponent',
-    // props: {},
     data: function () {
         return {}
     },
-    // computed: {},
-    //methods: {},
-    // watch: {},
-    // components: {},
-    // mixins: [],
-    // filters: {},
-    // -- Lifecycle Methods
-    // -- End Lifecycle Methods
 }
 </script>
 

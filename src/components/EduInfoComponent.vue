@@ -3,8 +3,8 @@
         <ul>
             <li>
                 <div class="columns">
-                    <div class="column">
-                        <span class="colorPrimary">Mar 2023 - Ago 2023</span>
+                    <div class="column colorPrimary">
+                        <p>Mar 2023 - Ago 2023</p>
                     </div>
                     <div class="column">
                         <h4 class="has-text-left colorPrimary">Desarrollo de Aplicacion Web Front-End Trainee</h4>
@@ -20,14 +20,14 @@
 
             <li>
                 <div class="columns">
-                    <div class="column">
-                        <span class="colorPrimary">Actualmente cursando</span>
+                    <div class="column colorPrimary">
+                        <p>Actualmente cursando</p>
                     </div>
                     <div class="column">
-                        <h4 class="has-text-left colorPrimary">Ingenieria Electronica</h4>
-                        <h6 class="has-text-left colorPrimary">Instituto Universitario Politécnico Santiago Mariño</h6>
+                        <h4 class="has-text-left colorPrimary">Tecnico Instalador Junior</h4>
+                        <h6 class="has-text-left colorPrimary">Vehicule Security Resources de Venezuela</h6>
                         <p class="has-text-justified">
-                           Modalidad: A distancia.
+                            Técnico Instalador Junior de dispositivos gps y radiofrecuencia de rastreo y monitoreo.
                         </p>
                     </div>
                 </div>
@@ -43,20 +43,13 @@ export default {
     data: function () {
         return {}
     },
-    // computed: {},
-    //methods: {},
-    // watch: {},
-    // components: {},
-    // mixins: [],
-    // filters: {},
-    // -- Lifecycle Methods
-    // -- End Lifecycle Methods
 }
 </script>
 
 <style scoped>
 ul {
     list-style: none;
+    margin: 0;
 }
 .colorPrimary{
     color: rgb(226, 232, 240, 1)
