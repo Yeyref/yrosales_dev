@@ -1,17 +1,17 @@
 <template>
   <div>
-    <a href="https://github.com/Yeyref" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/Yeyref" target="_blank" rel="noopener noreferrer" aria-label="Ve más en GitHub">
       <font-awesome-icon class="icons" icon="fa-brands fa-github" size="2xl" />
     </a>
-    <a href="https://www.linkedin.com/in/yeferson-rosales-4a37aa15a/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/yeferson-rosales-4a37aa15a/" target="_blank" rel="noopener noreferrer" aria-label="Ve más en LinkedIn">
       <font-awesome-icon class="icons" icon="fa-brands fa-linkedin" size="2xl" />
     </a>
     <a href="https://api.whatsapp.com/send?phone=56987216115&text=Hola+Yeferson%2C+quiero+contactarme+contigo+desde+tu+portafolio.
-" target="_blank" rel="noopener noreferrer">
+" target="_blank" rel="noopener noreferrer" aria-label="Contactame en mi whatsapp">
       <font-awesome-icon class="icons" icon="fa-brands fa-whatsapp" size="2xl" />
     </a>
     <a href="mailto:yefersonj.rr@gmail.com?Subject=Busco%20tu%20perfil%20desarrollador" target="_blank"
-      rel="noopener noreferrer">
+      rel="noopener noreferrer" aria-label="Contactame en mi correo electrónico">
       <font-awesome-icon class="icons" icon="fa-solid fa-envelope" size="2xl" />
     </a>
   </div>

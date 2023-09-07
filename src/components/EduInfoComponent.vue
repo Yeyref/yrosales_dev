@@ -7,7 +7,7 @@
                         <p>Mar 2023 - Ago 2023</p>
                     </div>
                     <div class="column">
-                        <h4 class="has-text-left colorPrimary">Desarrollo de Aplicacion Web Front-End Trainee</h4>
+                        <h4 class="has-text-left colorPrimary">Desarrollo de Aplicaciones Web Front-End Trainee</h4>
                         <h6 class="has-text-left colorPrimary">Eductecno</h6>
                         <p class="has-text-justified">
                             Completé exitosamente este bootcamp de desarrollo web, adquiriendo habilidades sólidas en
@@ -24,10 +24,10 @@
                         <p>Actualmente cursando</p>
                     </div>
                     <div class="column">
-                        <h4 class="has-text-left colorPrimary">Tecnico Instalador Junior</h4>
-                        <h6 class="has-text-left colorPrimary">Vehicule Security Resources de Venezuela</h6>
+                        <h4 class="has-text-left colorPrimary">Ingenieria Electronica</h4>
+                        <h6 class="has-text-left colorPrimary">Instituto Universitario Politécnico Santiago Mariño</h6>
                         <p class="has-text-justified">
-                            Técnico Instalador Junior de dispositivos gps y radiofrecuencia de rastreo y monitoreo.
+                           Modalidad: A distancia.
                         </p>
                     </div>
                 </div>

@@ -4,7 +4,7 @@
       <div>
         <nav class="navbar  is-transparent is-fixed-top" style="backdrop-filter: blur(10px);">
           <div class="navbar-brand">
-            <a class="colorPrimary" href="" style="display: flex; align-content: center; flex-wrap: wrap;">
+            <a class="colorPrimary" href="#" style="display: flex; align-content: center; flex-wrap: wrap;">
               <p> YJRR<strong>|Front-End Development</strong></p>
             </a>
             <div class="navbar-burger has-text-light" data-target="navbarExampleTransparentExample">

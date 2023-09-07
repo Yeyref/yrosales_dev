@@ -1,6 +1,6 @@
 <template>
     <div class="has-text-left" >
-       <a class="title" href="">
+       <a class="title" href="#">
             <h3>Yeferson Rosales</h3> 
         </a>
         <h4>Desarrollador Web Front-End</h4>
