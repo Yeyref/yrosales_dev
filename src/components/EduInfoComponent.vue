@@ -3,11 +3,11 @@
         <ul>
             <li>
                 <div class="columns">
-                    <div class="column">
-                        <span class="colorPrimary">Mar 2023 - Ago 2023</span>
+                    <div class="column colorPrimary">
+                        <p>Mar 2023 - Ago 2023</p>
                     </div>
                     <div class="column">
-                        <h4 class="has-text-left colorPrimary">Desarrollo de Aplicacion Web Front-End Trainee</h4>
+                        <h4 class="has-text-left colorPrimary">Desarrollo de Aplicaciones Web Front-End Trainee</h4>
                         <h6 class="has-text-left colorPrimary">Eductecno</h6>
                         <p class="has-text-justified">
                             Completé exitosamente este bootcamp de desarrollo web, adquiriendo habilidades sólidas en
@@ -20,8 +20,8 @@
 
             <li>
                 <div class="columns">
-                    <div class="column">
-                        <span class="colorPrimary">Actualmente cursando</span>
+                    <div class="column colorPrimary">
+                        <p>Actualmente cursando</p>
                     </div>
                     <div class="column">
                         <h4 class="has-text-left colorPrimary">Ingenieria Electronica</h4>
@@ -43,20 +43,13 @@ export default {
     data: function () {
         return {}
     },
-    // computed: {},
-    //methods: {},
-    // watch: {},
-    // components: {},
-    // mixins: [],
-    // filters: {},
-    // -- Lifecycle Methods
-    // -- End Lifecycle Methods
 }
 </script>
 
 <style scoped>
 ul {
     list-style: none;
+    margin: 0;
 }
 .colorPrimary{
     color: rgb(226, 232, 240, 1)
