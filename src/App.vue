@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <LoadingPageComponent/>
     <HelloWorld/>
     <div class="cursor" :style="{ top: cursorY + 'px', left: cursorX + 'px' }"></div>
   </div>
@@ -7,6 +8,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import LoadingPageComponent from './components/LoadingPageComponent.vue';
 
 export default {
   name: 'App',
@@ -17,7 +19,8 @@ export default {
     }
   },
   components: {
-    HelloWorld
+    HelloWorld,
+    LoadingPageComponent  
   },
   methods: {
     trackCursor(event) {
