@@ -19,7 +19,7 @@
 
       <div class="carousel-item">
         <h1>Games Opinion</h1>
-        <a href="https://github.com/Yeyref/drilling_mod_6" target="_blank" rel="noopener noreferrer">
+        <a href="https://yeyref.github.io/drilling_mod_6/" target="_blank" rel="noopener noreferrer">
           <img src="img/Captura de pantalla 2023-09-02 181447.png" alt="Imagen 2" />
         </a>
 
